@@ -2,7 +2,7 @@
  
 # 👋 Hello! I'm Neha Meena
 
- ##### 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+ #### 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
 ---
 </div>
 
