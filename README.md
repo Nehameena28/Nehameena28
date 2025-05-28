@@ -100,7 +100,11 @@
 
 
 
+
+
+
+
  
-#####  Thanks for visiting my profile! Let's build something awesome together! 💫
+######  Thanks for visiting my profile! Let's build something awesome together! 💫
 
 
