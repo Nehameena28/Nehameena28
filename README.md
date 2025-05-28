@@ -1,12 +1,13 @@
 <div align="center">
  
-#👋 Hello! I'm Neha Meena
+# 👋 Hello! I'm Neha Meena
+--
 
- #### 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+ ### 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
 ---
-
 </div>
-### 👩‍💻 About Me
+
+## 👩‍💻 About Me
 
 
 🌐 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
