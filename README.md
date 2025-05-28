@@ -25,11 +25,11 @@
 ---
 
 ##  🌍 Connect With Me
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-neha-meena)  
-[🌐 Portfolio – Coming Soon...](#)
 
+</div>
 ---
 
 ## 🛠️ Tech Stack
