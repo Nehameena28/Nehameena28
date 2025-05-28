@@ -52,7 +52,36 @@
 
 
 ---
+## 🚀 Projects
 
+### 🍽️ [Recipe Finder](https://bit.ly/Recipes_finder)
+🔍 A recipe search app built using React.js and Axios to fetch and display real-time recipe data.
+
+- 🌐 API integration with real-time search  
+- 🧩 Modular React components  
+- 🎨 Responsive UI with Tailwind CSS  
+- 📖 [GitHub README](https://bit.ly/Recipes_finder)
+
+--
+
+### 💼 [Personal Portfolio](https://bit.ly/Neha_Meena_Portfolio)
+🌟 A responsive portfolio built using React.js and Tailwind CSS to showcase my projects and skills.
+
+- 🙋 About Me, Projects Showcase, Contact Form  
+- 🌙 Dark Mode & Smooth Navigation  
+- 💡 Strengthened skills in React, Tailwind CSS & UI/UX  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contact-neha-meena)
+
+--
+
+### 🔠 [Word & Letter Counter](https://bit.ly/README-Word-Letter-Counter)
+📝 A simple web app to count words and letters in real-time using HTML, CSS, and JavaScript.
+
+- ⚡ Instant word & letter counting  
+- 🧑‍💻 User-friendly design  
+- 📖 [GitHub README](https://bit.ly/README-Word-Letter-Counter)
+
+---
 
 
 
