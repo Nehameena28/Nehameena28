@@ -1,6 +1,6 @@
-👋 Hello! I'm Neha Meena
+# 👋 Hello! I'm Neha Meena
 
-🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+  🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
 ---
 
 ### 🌐 About Me
@@ -16,8 +16,7 @@
 ☁️ Currently exploring deployment and cloud hosting (Netlify, Vercel, etc.).  
 🤝 Open to **collaborations**, projects, internships, and hackathons.
 
-💬 Ask me about `React`, `JavaScript`, `MongoDB`, or anything web-related!  
-🎨 In my free time, I enjoy **watching web series**, **writing notes**, and learning new tech.  
+💬 Ask me about `React`, `JavaScript`, `MongoDB`, or anything web-related!    
 🏋️ Fitness & positivity keep me energized – I love **growing every day**!
 
 📍 Khategaon, Madhya Pradesh  
@@ -56,6 +55,6 @@
 ---
 
 
----
+
 
 _Thanks for visiting my profile! Let's build something awesome together! 💫_
