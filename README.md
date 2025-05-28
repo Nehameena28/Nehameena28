@@ -1,8 +1,9 @@
-# 👋 Hello! I'm Neha Meena
+                                                                  # 👋 Hello! I'm Neha Meena
 
-🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+                                          🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
 
-## 🔹 About Me
+### 🌐 About Me
+-------
 
 💻 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
 🎯 My goal is to become a **MERN Stack Developer** and gain hands-on experience by working on real-world projects.
@@ -51,10 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaMeena-debug&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaMeena-debug&layout=compact&theme=react)
 
 ---
 
