@@ -11,14 +11,11 @@
 
 🌐 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
 🎯 My goal is to become a **MERN Stack Developer** and gain hands-on experience by working on real-world projects.
-
 🔧 Skilled in **Frontend** (HTML, CSS, JavaScript, React, Tailwind CSS)  
 🛠️ Learning and working on **Backend** (Node.js, Express, MongoDB)  
 🌐 Familiar with **Git & GitHub** for version control and collaboration.
-
 ☁️ Currently exploring deployment and cloud hosting (Netlify, Vercel, etc.).  
 🤝 Open to **collaborations**, projects, internships, and hackathons.
-
 💬 Ask me about `React`, `JavaScript`, `MongoDB`, or anything web-related!    
 🏋️ Fitness & positivity keep me energized – I love **growing every day**!
 
@@ -52,7 +49,7 @@
 ### 🧪Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 
 ---
 
