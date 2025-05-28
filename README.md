@@ -1,9 +1,10 @@
+<div align="center">
 # 👋 Hello! I'm Neha Meena
 
  #### 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
 ---
 
-
+</div>
 ### 👩‍💻 About Me
 
 
