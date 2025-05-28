@@ -99,8 +99,8 @@
 
 
 
-<div align="center">
- 
-####  Thanks for visiting my profile! Let's build something awesome together! 💫
 
-</div>
+ 
+#####  Thanks for visiting my profile! Let's build something awesome together! 💫
+
+
