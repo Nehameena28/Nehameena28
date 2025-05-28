@@ -71,6 +71,7 @@
 
 
 
+
 ### 💼 [Personal Portfolio](https://bit.ly/Neha_Meena_Portfolio)
 
 🌟 A responsive portfolio built using React.js and Tailwind CSS to showcase my projects and skills.
@@ -82,6 +83,7 @@
 - 💡 Strengthened skills in React, Tailwind CSS & UI/UX
     
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contact-neha-meena)
+
 
 
 
@@ -97,5 +99,6 @@
 
 
 
-
+<div align="center">
 ##### Thanks for visiting my profile! Let's build something awesome together! 💫
+</div>
