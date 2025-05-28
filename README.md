@@ -1,9 +1,10 @@
-                                                                  # 👋 Hello! I'm Neha Meena
+👋 Hello! I'm Neha Meena
 
-                                          🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+---
 
 ### 🌐 About Me
--------
+-----
 
 💻 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
 🎯 My goal is to become a **MERN Stack Developer** and gain hands-on experience by working on real-world projects.
@@ -24,7 +25,9 @@
 
 ---
 
-## 🔗 Connect With Me
+##  
+🌍 Connect With Me
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-neha-meena)  
 [🌐 Portfolio – Coming Soon...](#)
