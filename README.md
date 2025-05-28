@@ -1,12 +1,12 @@
-# 👋 Hello! I'm Neha Meena
+### 👋 Hello! I'm Neha Meena
 
-  🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+  # 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
 ---
 
-### 🌐 About Me
------
+## 👩‍💻 About Me
 
-💻 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
+
+🌐 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
 🎯 My goal is to become a **MERN Stack Developer** and gain hands-on experience by working on real-world projects.
 
 🔧 Skilled in **Frontend** (HTML, CSS, JavaScript, React, Tailwind CSS)  
