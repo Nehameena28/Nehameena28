@@ -14,7 +14,7 @@
 🔧 Skilled in **Frontend** (HTML, CSS, JavaScript, React, Tailwind CSS)  
 🛠️ Learning and working on **Backend** (Node.js, Express, MongoDB)  
 🌐 Familiar with **Git & GitHub** for version control and collaboration.
-☁️ Currently exploring deployment and cloud hosting (Netlify, Vercel, etc.).  
+☁️ Currently exploring deployment and cloud hosting (Netlify).  
 🤝 Open to **collaborations**, projects, internships, and hackathons.
 💬 Ask me about `React`, `JavaScript`, `MongoDB`, or anything web-related!    
 🏋️ Fitness & positivity keep me energized – I love **growing every day**!
@@ -42,6 +42,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 
 ### 🧰 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -51,6 +54,7 @@
 ### 🧪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
