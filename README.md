@@ -23,18 +23,18 @@
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/contact-neha-meena)  
 
 
-
-##  🌍 Connect With Me
 ---
+##  🌍 Connect With Me
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-neha-meena)  
 
 </div>
 
-
-## 🛠️ Tech Stack
 ---
+## 🛠️ Tech Stack
+
 
 ### 🧩 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -52,10 +52,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
+---
 
 ## 🚀 Projects
----
+
 
 ### 🍽️ [Recipe Finder](https://bit.ly/Recipes_finder)
 
