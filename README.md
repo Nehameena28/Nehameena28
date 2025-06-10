@@ -90,6 +90,19 @@
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contact-neha-meena)
 
 
+### 🛍️ [Glow Cosmetic – E-Commerce](bit.ly/GlowCosmetic)
+
+✨ A stylish and fully responsive e-commerce frontend for beauty products, built with React and Tailwind CSS.
+
+- 💄 Product listings with images, prices, and names
+
+- 🛒 Shopping cart functionality (Add/Remove items)
+
+- 📱 Modern and responsive user interface
+
+- ⚛️ Built with React (Vite), Tailwind CSS, JavaScript, and HTML
+
+- 📖  [GitHub README](bit.ly/GlowCosmetic)
 
 
 ### 🔠 [Word & Letter Counter](https://bit.ly/README-Word-Letter-Counter)
