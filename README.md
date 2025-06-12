@@ -2,21 +2,22 @@
  
 # 👋 Hello! I'm Neha Meena
 
- #### 🌟 A Passionate MERN Stack Developer | React Enthusiast | Open to Learn & Build 🚀
+ #### 🌟 Frontend Developer | React Enthusiast | Aspiring MERN Stack Developer 🚀
 ---
 </div>
 
 ## 👩‍💻 About Me
 
 
-🌐 I'm a passionate **Full Stack Developer** (MERN) aiming to build scalable, dynamic, and user-friendly web applications.  
-🎯 My goal is to become a **MERN Stack Developer** and gain hands-on experience by working on real-world projects.
+🌐 I’m a passionate Frontend Developer with a strong interest in building dynamic, responsive, and user-friendly web applications.
+🎯 Currently focused on Frontend Development with HTML, CSS, JavaScript, React, and Tailwind CSS.
+🚀 My goal is to become a Full Stack MERN Developer by gaining hands-on experience in backend technologies like Node.js, Express, and MongoDB.
 🔧 Skilled in **Frontend** (HTML, CSS, JavaScript, React, Tailwind CSS)  
 🛠️ Learning and working on **Backend** (Node.js, Express, MongoDB)  
 🌐 Familiar with **Git & GitHub** for version control and collaboration.
 ☁️ Currently exploring deployment and cloud hosting (Netlify).  
 🤝 Open to **collaborations**, projects, internships, and hackathons.
-💬 Ask me about `React`, `JavaScript`, `MongoDB`, or anything web-related!    
+💬 Ask me about `React`, `JavaScript`, `Web development`, or anything web-related!    
 🏋️ Fitness & positivity keep me energized – I love **growing every day**!
 
 📍 Khategaon, Madhya Pradesh  
@@ -48,9 +49,6 @@
 
 ### 🧰 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 🧪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
