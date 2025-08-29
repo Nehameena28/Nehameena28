@@ -17,7 +17,6 @@
 - 💬 Ask me about `React`, `MERN Stack`, or anything web-related!  
 
 📍 Khategaon, Madhya Pradesh  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/contact-neha-meena)  
 
 ---
 
@@ -94,14 +93,17 @@ A responsive portfolio to showcase my projects and skills.
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Contribution Summary  
 
-<div align="center">
- 
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehameena28&show_icons=true&theme=radical)  
+- **171 contributions** in the last year  
+- Active in **4+ repositories** (EduLinker, E-commerce Website, Recipe Finder, Portfolio)  
+- Strong focus on **full-stack development (MERN, Tailwind, JWT, Razorpay)**  
+- Regular commits in **June – August 2025** showing consistency  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehameena28&layout=compact&theme=radical)  
+### 🚀 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehameena28&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehameena28&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nehameena28&theme=radical)  
 
 </div>
