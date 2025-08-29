@@ -16,8 +16,8 @@
 - 🤝 Open to **collaborations, internships, and hackathons**.  
 - 💬 Ask me about `React`, `MERN Stack`, or anything web-related!  
 
-📍 Khategaon, Madhya Pradesh  
----
+ 
+--
 ##  🌍 Connect With Me  
 
 <p align="center">
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
 </p>
----
+--
 
 ## 🛠️ Tech Stack
 
