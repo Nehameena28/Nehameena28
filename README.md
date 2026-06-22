@@ -21,7 +21,7 @@
 ##  🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/contact-neha-meena" target="_blank">
+  <a href="www.linkedin.com/in/neha-meena-contact" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
